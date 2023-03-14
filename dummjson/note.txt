@@ -1,0 +1,1 @@
+// "mocha *.js"  nge run yang formatnya JS. Kalo folder "mocha namafolder/*.js". Kalo folder banyak "mocha folder1/folder2/*.js" di package.json
